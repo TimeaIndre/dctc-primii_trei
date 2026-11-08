@@ -1,4 +1,4 @@
-# Proiect DCTC: `<numele echipei>`
+# Proiect DCTC: `primii_trei`
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/<utilizator>/<depozit>/blob/main/notebooks/analiza.ipynb)
 [![Verificări depozit](../../actions/workflows/repo-check.yml/badge.svg)](../../actions/workflows/repo-check.yml)
