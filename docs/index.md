@@ -1,15 +1,15 @@
 ---
 layout: default
-title: "<titlul temei>"
+title: "Populatia si imbatranirea in UE"
 ---
 
-# `<titlul temei>`
+# `Populatia si imbatranirea in UE`
 
-**Echipa `<numele echipei>`**: `<Nume Prenume>`, `<Nume Prenume>`, `<Nume Prenume>`, `<Nume Prenume>` · Matematică informatică și Informatică, anul I · UTCN CUNBM
+**Echipa `primii_trei`**: `Indre Timea`, `Chis Cosmina`, `Feher Dominique` · Matematică informatică și Informatică, anul I · UTCN CUNBM
 
 ## Întrebarea studiului
 
-`<O propoziție. Ce ați vrut să aflați și de ce contează?>`
+`Cum a evoluat varsta mediana in Romania fata de media UE in ultimii 25 de ani?`
 
 ## Datele
 
