@@ -19,7 +19,7 @@ Disciplina *Dezvoltare colaborativă și tehnologii cloud* (DCTC), Universitatea
 
 **Tema nr. `1`: `Populatia si imbatranirea in UE`**
 
-Întrebarea studiului: `<o singură propoziție, cu semnul întrebării la final>`
+Întrebarea studiului: `Cum a evoluat varsta mediana in Romania fata de media UE in ultimii 25 de ani?`
 
 Sursa datelor: vedeți [`data/README.md`](data/README.md).
 
