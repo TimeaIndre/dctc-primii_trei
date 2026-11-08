@@ -10,7 +10,7 @@ Disciplina *Dezvoltare colaborativă și tehnologii cloud* (DCTC), Universitatea
 
 | Nume și prenume | Utilizator GitHub | Program | Rol inițial (s3-s6) | Rol 2 (s6-s10) | Rol 3 (s10-s14) |
 | --- | --- | --- | --- | --- | --- |
-| `<Nume Prenume>` | `<utilizator>` | MI / INF | coordonator | | |
+|  `Indre Timea`  | `<utilizator>` | MI / INF | coordonator | | |
 | `<Nume Prenume>` | `<utilizator>` | MI / INF | responsabil depozit | | |
 | `<Nume Prenume>` | `<utilizator>` | MI / INF | responsabil raport | | |
 | `<Nume Prenume>` | `<utilizator>` | MI / INF | responsabil date și notebook | | |
