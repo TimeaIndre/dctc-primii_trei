@@ -45,7 +45,7 @@ Sunt în [`CONTRIBUTING.md`](CONTRIBUTING.md): ramuri `feature/utilizator-scop`,
 
 ## Declarație privind utilizarea instrumentelor AI
 
-`Am folosit <instrument> pentru <scop> la <fișier sau secțiune>; am verificat rezultatul prin <metodă>.` sau `Nu am folosit instrumente AI.`
+Nu am folosit instrumente AI.
 
 ## Licență
 
