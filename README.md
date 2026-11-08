@@ -17,7 +17,7 @@ Disciplina *Dezvoltare colaborativă și tehnologii cloud* (DCTC), Universitatea
 
 ## Tema
 
-**Tema nr. `<n>`: `<titlul temei>`**
+**Tema nr. `1`: `Populatia si imbatranirea in UE`**
 
 Întrebarea studiului: `<o singură propoziție, cu semnul întrebării la final>`
 
