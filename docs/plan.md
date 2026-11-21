@@ -14,9 +14,9 @@ Fiecare membru adaugă secțiunea proprie pe o ramură `feature/utilizator-plan`
 
 `<...>`
 
-## `<Nume Prenume>` (`<utilizator>`), responsabil raport
+## `Indre Timea` (`TimeaIndre`), responsabil raport
 
-`<...>`
+`Pana la T4, T5 si T6 o sa fac scheletul raportului din Overleaf si o sa ma obisnuiesc sa fac pull requests. O sa lucrez, in general, cu Overleaf si VS Code, iar un risc pe care il vad este de a nu intelege corect cerinta si a nu realiza greseala.`
 
 ## `<Nume Prenume>` (`<utilizator>`), responsabil date și notebook
 
