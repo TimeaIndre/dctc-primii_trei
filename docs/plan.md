@@ -2,15 +2,26 @@
 
 Fiecare membru adaugă secțiunea proprie pe o ramură `feature/utilizator-plan` (de exemplu `feature/ana-plan`) și o aduce prin pull request revizuit de un coleg. Secțiunea are 5-10 rânduri: ce face membrul până la T4, T5 și T6, cu ce instrumente, ce riscuri vede.
 
-## Tema și întrebarea studiului
+## Populatia si imbatranirea in UE
 
-`<Coordonatorul: tema aleasă, întrebarea, de ce ați ales-o, sursa datelor.>`
+`Tema aleasă: Populația și îmbătrânirea în Uniunea Europeană.
+Întrebarea studiului: Cum a evoluat îmbătrânirea populației în țările Uniunii Europene și care sunt diferențele dintre statele membre?
+Motivația alegerii temei: Am ales această temă deoarece îmbătrânirea populației reprezintă o provocare importantă pentru Uniunea Europeană, având efecte asupra pieței muncii, sistemelor de pensii și serviciilor de sănătate.
+Sursa datelor: Eurostat, baza oficială de date statistice a Uniunii Europene, de unde vom utiliza indicatori privind structura populației pe grupe de vârstă.`
 
-## `<Nume Prenume>` (`<utilizator>`), coordonator
+## `Chis Cosmina` (`coschi90`), coordonator
+-Până la T4 voi contribui la organizarea și documentarea proiectului.
+Voi verifica informațiile și materialele necesare studiului.
+Voi colabora cu ceilalți membri pentru realizarea sarcinilor.
+Pentru T5–T6 voi participa la analiza rezultatelor și redactarea raportului.
+Voi utiliza GitHub și VS Code pentru gestionarea modificărilor.
+Voi folosi Overleaf pentru redactarea raportului.
+Un risc posibil este apariția conflictelor Git.
+Pentru evitarea problemelor voi comunica permanent cu echipa.
 
-`<...>`
 
-## `<Nume Prenume>` (`<utilizator>`), responsabil depozit
+
+## `Chis Cosmina` (`coschi90`), responsabil depozit
 
 `<...>`
 
