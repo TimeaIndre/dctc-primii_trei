@@ -10,9 +10,9 @@ Disciplina *Dezvoltare colaborativă și tehnologii cloud* (DCTC), Universitatea
 
 | Nume și prenume | Utilizator GitHub | Program | Rol inițial (s3-s6) | Rol 2 (s6-s10) | Rol 3 (s10-s14) |
 | --- | --- | --- | --- | --- | --- |
-|  `Indre Timea`  |   `TimeaIndre`  | MI | coordonator | | |
-|  `Indre Timea`  |   `TimeaIndre`  | MI | responsabil depozit | | |
-| `<Nume Prenume>` | `<utilizator>` | MI / INF | responsabil raport | | |
+|  `Indre Timea`  |   `TimeaIndre`  | MI | coordonator | responsabil raport | responsabil date si notebook |
+|  `Indre Timea`  |   `TimeaIndre`  | MI | responsabil depozit | responsabil raport | responsabil date si notebook |
+| `<Nume Prenume>` | `<utilizator>` | MI / INF | responsabil raport | coordonator | |
 | `Feher Dominique` | `dodi096` | MI | responsabil date și notebook | | |
 
 ## Tema
@@ -45,7 +45,7 @@ Sunt în [`CONTRIBUTING.md`](CONTRIBUTING.md): ramuri `feature/utilizator-scop`,
 
 ## Declarație privind utilizarea instrumentelor AI
 
-`Nu am folosit instrumente AI.`
+`Am folosit pentru a intelege cerinta.`
 
 ## Licență
 
