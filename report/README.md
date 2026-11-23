@@ -9,7 +9,7 @@
 
 Link-ul de vizualizare al proiectului Overleaf (îl completează responsabilul raportului, la laboratorul 4):
 
-- Vizualizare (toată echipa și titularul): `<link de vizualizare>`
+- Vizualizare (toată echipa și titularul): `https://www.overleaf.com/project/6b01ce658bb37396591aa1d2/share#271d584832385f71f71f6715530a333fde23f377b7aeddfb`
 
 Link-ul de editare nu se pune aici: depozitul este public, iar oricine are cont Overleaf și link-ul de editare ar putea modifica raportul. Perechea de raport lucrează din invitația primită pe e-mail.
 
